@@ -25,7 +25,7 @@ Every attempt is made to mirror the currently shipping waveform-data.js version 
 
 ## License
 
-Licensed under LGPLv3; see COPYING and COPYING.LESSER for details.
+Licensed under the GNU Lesser General Public License v3; see COPYING and COPYING.LESSER for details.
 
 ## Authorship
 

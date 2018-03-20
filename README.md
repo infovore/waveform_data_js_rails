@@ -19,7 +19,7 @@ Full documentation for `waveform-data.js` can be [found in its README](https://g
 
 ## Versioning
 
-waveform-data-js-rails 1.5.1.0 == waveform-data-js 1.5.1
+waveform-data-js-rails 1.5.1.x == waveform-data-js 1.5.1
 
 Every attempt is made to mirror the currently shipping waveform-data.js version number wherever possible. The major, minor, and patch version numbers will always represent the waveform-data.js version. Should a gem bug be discovered, a 4th version identifier will be added and incremented.
 
